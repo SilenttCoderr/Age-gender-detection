@@ -4,8 +4,8 @@
 
 Originally envisioned as a women’s safety solution, the system responds to a **specific hand gesture**. Upon detection, it immediately:
 
-* 📸 **Close up snapshots** of individuals in the surrounding area.
-* 🧠 **Detects gender** of the captured faces using pre-trained deep learning models.
+* 📸 **Saves close up snapshots** of individuals in the surrounding area.
+* 🧠 **Detects gender** of the captured faces using OpenCV pre-trained models.
 
 ### 💡 Key Features
 
