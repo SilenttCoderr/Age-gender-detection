@@ -1,5 +1,4 @@
 # Suraksha Drishti - Smart Safety System for Women
-Here's a polished and professional project description for **Suraksha Drishti**, which you can use in your GitHub `README.md`:
 
 **Suraksha Drishti** is a safety-focused computer vision project developed using **OpenCV**, aimed at enhancing personal security, especially for women traveling alone at night.
 
